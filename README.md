@@ -1,5 +1,7 @@
 # AzureIA_GenerativeIAOpenAI
+Os láboratórios 13 e 14 foram descontinuado pela Microsoft. Mas encaminhou para novos utilizando o serviço Azure AI Foundry. Acredito que o resultado/objetivo é o mesmo.
 
+Copilot: https://github.com/WanderBernardo/AzureIA_GenerativeIACopitot/tree/main
 
 ### Pontos Importantes:
 - Caso esteja realizando apenas um prática de estudo, no final excluir tudo que foi construído nesse laboratório. Desta forma, minimiza o risco de ser cobrado algum valor. Lembre-se você está em um ambiente real de produção.
