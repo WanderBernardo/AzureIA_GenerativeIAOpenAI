@@ -23,4 +23,8 @@ Telas abaixo, apresenta as mensagens quando entramos nos links dos laboratórios
 
 ### Novos Serviços
 
+_ https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html
+_ https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html
+
+Em breve os links para os laborátorios.
 
